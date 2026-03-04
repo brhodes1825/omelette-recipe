@@ -117,7 +117,7 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 
 <!DOCTYPE html>
-<head lang="en>
+<head lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
