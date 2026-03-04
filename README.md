@@ -113,3 +113,23 @@ Describe how you used AI tools (if any) during this project. This helps demonstr
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+
+
+
+
+<!DOCTYPE html>
+<head lang="en>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Omelette recipe</title>
+    <link rel="stylesheet" href="styles.css">
+
+  </head>
+  <body></body>
+</html>
+
+
+<img class="omelette-header" src="https://freeimage.host/i/qC8M3pj">
