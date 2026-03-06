@@ -70,6 +70,7 @@ p, li {
   margin: 2px;
   padding: 2px;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .preparation-info ul {
@@ -82,4 +83,8 @@ p, li {
   color: hsl(30, 10%, 34%);
   margin: 2px;
   padding: 2px;
+}
+
+.preparation-info li::marker {
+  color: hsl(332, 51%, 32%);
 }
