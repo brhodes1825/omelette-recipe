@@ -17,6 +17,11 @@
   font-weight: 400;
 }
 
+header:not(img) {
+  margin: auto auto;
+  padding: auto auto;
+}
+
 header > img {
   width: 375px;
   height: 10rem;
@@ -25,7 +30,6 @@ header > img {
 
 h1, h2 {
   font-family: "Young-Serif";
-  margin: 10px 5px;
 }
 
 h1 {
