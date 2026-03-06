@@ -9,6 +9,16 @@
   font-weight: normal;
 }
 
-h1 {
+@font-face {
+  font-family: Young-Serif;
+  src: url(Young-SerifRegular.tff);
+  font-weight: normal;
+}
+
+h1, h2 {
   font-family: Outfit-Variable;
+}
+
+p {
+  font-family: Young-Serif;
 }
