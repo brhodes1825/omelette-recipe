@@ -59,6 +59,7 @@ p, li {
 
 .preparation-info {
   background-color: hsl(330, 100%, 98%);
+  margin: 10px;
   padding: 25px;
   list-style-type: decimal;
   border-radius: 10px;
