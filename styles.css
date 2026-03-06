@@ -1,5 +1,5 @@
 * {
-  margin: 0;
+  margin: auto auto;
   padding: 0;
   width: 375px;
   background-color: hsl(0, 0%, 100%)
@@ -65,6 +65,7 @@ p, li {
 }
 
 .preparation-info p {
+  background-color: hsl(330, 100%, 98%);
   color: hsl(332, 51%, 32%);
   margin: 2px;
   padding: 2px;
