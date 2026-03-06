@@ -64,12 +64,17 @@ p, li {
 
 .preparation-info p {
   color: hsl(332, 51%, 32%);
+  margin: 2px;
+  padding: 2px;
 }
 
 .preparation-info ul {
   background-color: hsl(330, 100%, 98%);
+  margin: 2px;
 }
 
 .preparation-info li {
   color: hsl(30, 10%, 34%);
+  margin: 2px;
+  padding: 2px;
 }
