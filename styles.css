@@ -58,7 +58,19 @@ p, li {
 
 .preparation-info {
   background-color: hsl(330, 100%, 98%);
-  margin: 7px;
+  margin: 7px 10px;
   padding: 10px;
   list-style-type: decimal;
+}
+
+.preparation-info p {
+  color: hsl(332, 51%, 32%);
+}
+
+.preparation-info ul {
+  background-color: hsl(330, 100%, 98%);
+}
+
+.preparation-info li {
+  color: hsl(30, 10%, 34%);
 }
