@@ -43,22 +43,25 @@ p, li {
 }
 
 .introduction {
-  text-align: center;
+  text-align: start;
   padding: 10px;
 }
 
-.introduction > h1 {
+.introduction h1 {
   color: hsl(24, 5%, 18%);
+  text-align: justify;
 }
 
-.introduction > p {
+.introduction p {
   color: hsl(30, 10%, 34%);
+  text-align: start;
 }
 
 .preparation-info {
   background-color: hsl(330, 100%, 98%);
   padding: 10px;
   list-style-type: decimal;
+  border-radius: 5px;
 }
 
 .preparation-info p {
