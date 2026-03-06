@@ -15,6 +15,11 @@
   font-weight: 400;
 }
 
+header > img {
+  width: 100vw;
+  height: 3rem;
+}
+
 h1, h2 {
   font-family: Young-Serif;
 }
