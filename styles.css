@@ -25,12 +25,12 @@ header > img {
 
 h1, h2 {
   font-family: Young-Serif;
+  margin: 10px;
 }
 
 h1 {
   font-size: 26px
   color: hsl(24, 5%, 18%);
-  margin: 5px;
 }
 
 h2 {
