@@ -47,3 +47,18 @@ p, li {
   margin: 10px;
   padding: 10px 5px
 }
+
+.introduction > h1 {
+  color: hsl(24, 5%, 18%);
+}
+
+.introduction > p {
+  color: hsl(30, 10%, 34%);
+}
+
+.preparation-info {
+  background-color: hsl(330, 100%, 98%);
+  margin: 7px;
+  padding: 10px;
+  list-style-type: decimal;
+}
