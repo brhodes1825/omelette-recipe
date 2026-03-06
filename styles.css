@@ -6,14 +6,14 @@
 }
 
 @font-face {
-  font-family: Outfit-Variable;
-  src: url("https://fonts.google.com/specimen/Outfit");
+  font-family: "Outfit-Variable";
+  src: url("https://fonts.google.com/specimen/Outfit"), local("Outfit-VariableFont_wght.ttf");
   font-weight: 400, 600, 700;
 }
 
 @font-face {
-  font-family: Young-Serif;
-  src: url("https://fonts.google.com/specimen/Young+Serif");
+  font-family: "Young-Serif";
+  src: url("https://fonts.google.com/specimen/Young+Serif"), local("YoungSerif-Regular.ttf");
   font-weight: 400;
 }
 
