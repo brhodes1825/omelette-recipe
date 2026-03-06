@@ -7,7 +7,7 @@
 
 @font-face {
   font-family: "Outfit-Variable";
-  src: url("https://fonts.google.com/specimen/Outfit"), local("Outfit-VariableFont_wght.ttf");
+  src: url("Outfit-VariableFont_wght.ttf");
   font-weight: 400, 600, 700;
 }
 
