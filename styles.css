@@ -47,22 +47,19 @@ p, li {
 }
 
 .introduction {
-  text-align: start;
   padding: 10px;
 }
 
 .introduction h1 {
   color: hsl(24, 5%, 18%);
   text-align: justify;
-  margin: 15px;
+  margin: 7px;
 }
 
 .introduction p {
   color: hsl(30, 10%, 34%);
-  text-align: start;
-  margin: 15px;
-  display: flex;
-  justify-content: space-evenly;
+  margin: 7px;
+  text-align: justify;
 }
 
 .preparation-info {
