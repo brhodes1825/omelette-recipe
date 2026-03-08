@@ -44,6 +44,7 @@ h1 {
 h2 {
   font-size: 28px;
   color: hsl(14, 45%, 36%);
+  margin: 20px auto;
 }
 
 p, li {
