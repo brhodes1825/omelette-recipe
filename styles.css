@@ -162,6 +162,7 @@ hr {
 .nutrition p {
   width: 300px;
   margin-bottom: 10px;
+  text-align: left;
 }
 
 table p {
