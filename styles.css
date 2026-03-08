@@ -25,12 +25,7 @@
   font-style: normal;
 }
 
-header:not(img) {
-  margin: auto auto;
-  padding: auto auto;
-}
-
-header > img {
+header {
   width: 100vw;
   height: 10rem;
   margin-bottom: 10px;
@@ -71,7 +66,7 @@ p, li {
 }
 
 .preparation-info {
-  width: 375px;
+  width: 300px;
   background-color: hsl(330, 100%, 98%);
   margin: 10px;
   padding: 25px;
