@@ -135,9 +135,11 @@ hr {
 
 .instructions ul {
   width: 200px;
+  list-style-type: number;
 }
 
 .instructions li {
   margin: 5px;
   width: 200px;
 }
+
