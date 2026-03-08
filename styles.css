@@ -72,6 +72,7 @@ p, li {
 }
 
 .preparation-info {
+  width: 375px;
   background-color: hsl(330, 100%, 98%);
   margin: 10px;
   padding: 25px;
