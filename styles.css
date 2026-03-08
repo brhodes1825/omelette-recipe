@@ -173,3 +173,9 @@ hr {
 span {
   padding: 100px;
 }
+
+.divider {
+  color: hsl(30, 54%, 90%)
+  width: 300px;
+  height: 1px;
+}
