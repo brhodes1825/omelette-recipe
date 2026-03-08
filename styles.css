@@ -179,4 +179,5 @@ table {
 .bold {
   text-align: right;
   font-weight: 700;
+  color: hsl(14, 45%, 36%);
 }
