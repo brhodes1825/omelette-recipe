@@ -111,6 +111,33 @@ p, li {
 }
 
 .ingredients h2 {
-  padding: 10px;
   text-align: left;
+}
+
+.ingredients ul {
+  width: 200px;
+}
+
+.ingredients li {
+  margin: 5px;
+  width: 200px;
+}
+
+hr {
+  color: hsl(30, 54%, 90%);
+  margin: 20px;
+  width: 300px
+}
+
+.instructions h2 {
+  text-align: left;
+}
+
+.instructions ul {
+  width: 200px;
+}
+
+.instructions li {
+  margin: 5px;
+  width: 200px;
 }
