@@ -73,6 +73,7 @@ p, li {
   padding: 25px;
   list-style-type: decimal;
   border-radius: 10px;
+  overflow: hidden;
 }
 
 .preparation-info p {
@@ -81,20 +82,20 @@ p, li {
   margin: 2px;
   font-size: 18px;
   font-weight: normal;
-  width: 275px;
+  width: 200px;
 }
 
 .preparation-info ul {
   background-color: hsl(330, 100%, 98%);
   margin: 2px;
-  width: 275px;
+  width: 200px;
 }
 
 .preparation-info li {
   background-color: hsl(330, 100%, 98%);
   color: hsl(30, 10%, 34%);
   margin: 5px;
-  width: 275px;
+  width: 200px;
 }
 
 .preparation-info li::marker {
