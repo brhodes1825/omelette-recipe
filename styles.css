@@ -130,10 +130,7 @@ hr {
 .instructions {
   margin: 25px;
   text-align: left;
-}
-
-.instructions h2 {
-  text-align: left;
+  width: 350px;
 }
 
 .instructions ul {
