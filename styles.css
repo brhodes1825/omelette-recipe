@@ -164,6 +164,12 @@ hr {
   margin-bottom: 10px;
 }
 
+table {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
 .divider {
   border-bottom: 1px solid hsl(30, 54%, 90%);
   margin: 3px;
