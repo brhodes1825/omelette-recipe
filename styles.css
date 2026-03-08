@@ -107,7 +107,7 @@ p, li {
 }
 
 .ingredients {
-  margin: 10px;
+  margin: 25px;
   text-align: left;
   width: 350px;
 }
@@ -117,8 +117,12 @@ p, li {
 }
 
 .ingredients li {
-  margin-bottom: 5px;
+  margin-bottom: 7px;
   width: 300px;
+}
+
+.ingredients li::marker {
+  color: hsl(14, 45%, 36%);
 }
 
 hr {
@@ -139,7 +143,7 @@ hr {
 }
 
 .instructions li {
-  margin: 5px;
+  margin-bottom: 7px;
   width: 300px;
   text-align: left;
 }
