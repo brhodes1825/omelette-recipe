@@ -169,3 +169,8 @@ hr {
   margin: 3px;
   width: 300px;
 }
+
+span .bold {
+  text-align: right;
+  font-weight: bold;
+}
