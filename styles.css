@@ -61,6 +61,7 @@ p, li {
 .introduction h1 {
   color: hsl(24, 5%, 18%);
   margin: 25px;
+  text-align: center;
 }
 
 .introduction p {
