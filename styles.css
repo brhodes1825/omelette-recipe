@@ -170,7 +170,7 @@ hr {
   width: 300px;
 }
 
-span .bold {
+.bold {
   text-align: right;
   font-weight: 700;
 }
