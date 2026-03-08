@@ -14,7 +14,7 @@
 
 @font-face {
   font-family: "Young-Serif";
-  src: url("https://fonts.google.com/specimen/Young+Serif"), local("YoungSerif-Regular.ttf");
+  src: url("https://fonts.google.com/specimen/Young+Serif"), url("YoungSerif-Regular.ttf");
   font-weight: 400;
   font-style: normal;
 }
