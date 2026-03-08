@@ -163,3 +163,9 @@ hr {
   width: 300px;
   margin: 7px;
 }
+
+.divider {
+  border-bottom: 1px solid hsl(30, 54%, 90%);
+  margin: 3px;
+  width: 300px;
+}
