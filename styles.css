@@ -164,7 +164,7 @@ hr {
   margin-bottom: 10px;
 }
 
-table {
+table p {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
