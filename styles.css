@@ -165,11 +165,6 @@ hr {
   text-align: left;
 }
 
-table p {
-  display: inline-block;
-  justify-content: space-between;
-}
-
 .divider {
   border-bottom: 1px solid hsl(30, 54%, 90%);
   margin: 3px;
@@ -177,7 +172,10 @@ table p {
 }
 
 .bold {
-  text-align: right;
   font-weight: 700;
   color: hsl(14, 45%, 36%);
+}
+
+span {
+  margin: -7px;
 }
