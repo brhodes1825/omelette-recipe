@@ -160,3 +160,7 @@ hr {
   display: flex;
 }
 
+.nutrition p {
+  width: 300px;
+  margin: 7px;
+}
