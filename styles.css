@@ -165,17 +165,11 @@ hr {
   text-align: left;
 }
 
-.divider {
-  border-bottom: 1px solid hsl(30, 54%, 90%);
-  margin: 3px;
-  width: 300px;
-}
-
 .bold {
   font-weight: 700;
   color: hsl(14, 45%, 36%);
 }
 
 span {
-  padding: 10px;
+  padding: 100px;
 }
