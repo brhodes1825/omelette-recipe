@@ -79,18 +79,21 @@ p, li {
   color: hsl(332, 51%, 32%);
   margin: 2px;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
+  width: 300px;
 }
 
 .preparation-info ul {
   background-color: hsl(330, 100%, 98%);
   margin: 2px;
+  width: 300px;
 }
 
 .preparation-info li {
   background-color: hsl(330, 100%, 98%);
   color: hsl(30, 10%, 34%);
   margin: 2px;
+  width: 300px;
 }
 
 .preparation-info li::marker {
