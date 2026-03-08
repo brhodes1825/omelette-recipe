@@ -157,5 +157,6 @@ hr {
   margin: 25px;
   text-align: left;
   width: 350px;
+  display: flex;
 }
 
