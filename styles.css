@@ -170,6 +170,11 @@ hr {
   color: hsl(14, 45%, 36%);
 }
 
+table {
+  display: flex;
+  justify-content: space-between;
+}
+
 .table-divider {
   color: hsl(30, 54%, 90%);
   width: 300px;
