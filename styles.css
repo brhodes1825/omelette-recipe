@@ -80,20 +80,20 @@ p, li {
   margin: 2px;
   font-size: 18px;
   font-weight: normal;
-  width: 300px;
+  width: 275px;
 }
 
 .preparation-info ul {
   background-color: hsl(330, 100%, 98%);
   margin: 2px;
-  width: 300px;
+  width: 275px;
 }
 
 .preparation-info li {
   background-color: hsl(330, 100%, 98%);
   color: hsl(30, 10%, 34%);
-  margin: 2px;
-  width: 300px;
+  margin: 5px;
+  width: 275px;
 }
 
 .preparation-info li::marker {
@@ -102,4 +102,8 @@ p, li {
 
 .preparation-info strong {
   background-color: hsl(330, 100%, 98%);
+}
+
+.ingredients {
+  margin: 25px;
 }
