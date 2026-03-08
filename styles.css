@@ -60,13 +60,12 @@ p, li {
 
 .introduction h1 {
   color: hsl(24, 5%, 18%);
-  text-align: justify;
   margin: 25px;
 }
 
 .introduction p {
   color: hsl(30, 10%, 34%);
-  margin: 7px;
+  margin: 10px;
   text-align: justify;
 }
 
