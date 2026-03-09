@@ -161,7 +161,7 @@ hr {
 
 .nutrition p {
   width: 300px;
-  margin-bottom: 10px;
+  margin: auto auto;
   text-align: left;
 }
 
