@@ -172,5 +172,8 @@ hr {
 
 table {
   width: 300px;
-  border-bottom: 1px solid hsl(30, 54%, 90%);
+}
+
+td {
+ border-bottom: 1px solid hsl(30, 54%, 90%);
 }
