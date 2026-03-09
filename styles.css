@@ -169,3 +169,8 @@ hr {
   font-weight: 600;
   color: hsl(14, 45%, 36%);
 }
+
+table {
+  width: 300px;
+  border-bottom: 1px solid hsl(30, 54%, 90%);
+}
